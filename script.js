@@ -1,4 +1,4 @@
-// Simple Calculator Logic
+// Core Calculator Feature
 
 const expressionEl = document.getElementById('expression');
 const resultEl = document.getElementById('result');
