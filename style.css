@@ -99,9 +99,10 @@ body {
   color: #16171f;
 }
 
-.operator:hover {
-  filter: brightness(1.1);
-}
+   .operator {
+     background: #ff8c2e;
+     color: #16171f;
+   }
 
 .equals {
   background: #ff5e5e;
