@@ -13,7 +13,7 @@ jobs:
 
       - name: Check required files exist
         run: |
-          test -f index.html
+          test -f indexx.html
           test -f style.css
           test -f script.js
           echo "All required files found successfully."
